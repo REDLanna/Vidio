@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+ <title> Histprias do JUAN
+ </head>
+
+ <body>
+   <video width = "320" height = "240" controls>
+   <source src = "https://youtu.be/fVqDEgKfKnc"
+    type = "video/mp4">
+    </video>
+   
+ <a href='https://emojitool.com/pt/horse'>🐎</a>
+ </body>
